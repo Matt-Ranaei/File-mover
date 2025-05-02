@@ -5,15 +5,6 @@ A Zsh-based utility to move or copy files of specified extensions from one or mo
 
 ## Repository Structure
 
-```
-
-file-mover/
-├── file\_mover.zsh       # Main script
-├── README.md            # This documentation
-├── .gitignore           # Standard ignores (e.g., list-files.txt)
-└── LICENSE              # MIT License
-
-````
 
 ## Features
 
